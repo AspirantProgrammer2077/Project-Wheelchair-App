@@ -11,7 +11,7 @@ A smart assistive mobility system that enables voice-controlled and Bluetooth-ba
 
 🛠️ Tech Stack
 - Flutter (Mobile App)
-- ESP32 / Arduino Uno
+- Arduino Mega
 - HC-05 Bluetooth Module
 - Ultrasonic Sensors
 - BTS7960 Motor Driver
