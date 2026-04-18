@@ -5,7 +5,7 @@ A smart assistive mobility system that enables voice-controlled and Bluetooth-ba
 🚀 Core Features
 - 🎤 Voice command navigation (Forward, Backward, Left, Right, Stop)
 - 🎮 Manual control interface
-- 📡 Bluetooth communication (ESP32 / HC-05)
+- 📡 Bluetooth communication (HC-05)
 - 🚧 Obstacle-aware movement system (ultrasonic sensor integration)
 - ⚙️ Automatic and manual control modes
 
