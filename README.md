@@ -1,6 +1,6 @@
 ♿ Project Wheelchair App
 
-A smart assistive mobility system that enables voice-controlled and Bluetooth-based navigation for electric wheelchairs using ESP32/Arduino hardware integration.
+A smart assistive mobility system that enables voice-controlled and Bluetooth-based navigation for electric wheelchairs using HC05/Arduino hardware integration.
 
 🚀 Core Features
 - 🎤 Voice command navigation (Forward, Backward, Left, Right, Stop)
